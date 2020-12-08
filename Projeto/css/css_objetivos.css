@@ -1,0 +1,31 @@
+.img1{
+    max-width:650px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+    padding-left: 225px;
+}
+
+.img2{
+    max-width:650px;
+    max-height:450px;
+    width: auto;
+    height: auto;
+    padding-left: 225px;
+}
+
+p{
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.meio {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.conclusao{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
