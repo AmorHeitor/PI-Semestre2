@@ -33,13 +33,17 @@ header{
 
 a{
     text-decoration: none;
+}
+
+.link_menu{
+    text-decoration: none;
     color: white;
     display: block;
     font-size: 25px;
     padding: 20px 5px;
 }
 
-a:hover{ /*semelhante ao mouse over*/
+.link_menu:hover{ /*semelhante ao mouse over*/
     background-color: rgb(160, 160, 160);
     color: black;
 }
