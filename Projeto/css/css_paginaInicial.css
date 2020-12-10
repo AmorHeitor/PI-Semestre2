@@ -2,12 +2,10 @@
 {
  margin-top: 70px;
  width: 1142px ;
- min-height: 790px ;
  margin-left:100px;
  background-color: rgb(221, 225, 231);
  color: rgb(80, 140, 231);
  margin-right: 100px;
- float: left;
  margin: 2 auto;
  max-height: auto;
 }
@@ -30,6 +28,118 @@ height: auto;
 font-size: 120%;
 }
 
-.lorem{
-    text-align: center;
+html, body, .container
+{
+    height: 100%; 
+    min-height: 100%;
 }
+
+.fileira1{
+    display: flex;
+}
+
+.fileira2{
+    display: flex;
+}
+
+.tile1 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.tile2 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.tile3 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.tile4 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.tile5 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.tile6 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 184, 51);
+    color: black;
+    flex: 1;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.link_t{
+    text-decoration: none;
+    color: black;
+}
+
+.tile1:hover{
+    background-color: orange;
+}
+
+.tile2:hover{
+    background-color: orange;
+}
+
+.tile3:hover{
+    background-color: orange;
+}
+
+.tile4:hover{
+    background-color: orange;
+}
+
+.tile5:hover{
+    background-color: orange;
+}
+
+.tile6:hover{
+    background-color: orange;
+}
+

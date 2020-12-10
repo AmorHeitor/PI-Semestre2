@@ -31,6 +31,16 @@ header{
     font-size: 17px;
 }
 
+.contato_link{
+    line-height: 100px;
+    padding-left: 950px;
+    color: rgb(255, 184, 51);
+}
+
+.contato_link a{
+    color: rgb(255, 184, 51);
+}
+
 a{
     text-decoration: none;
 }
@@ -102,6 +112,20 @@ label{
 .clickMenu .barra3 {
     -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
     transform: rotate(45deg) translate(-8px, -8px) ;
+}
+
+footer{
+    min-height: 200px;
+    background-image: url("../img/lgbt.jpg");
+    backdrop-filter: blur();
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center ;   
+}
+
+.direitos{
+    text-align: center;
+    color: white;
 }
 
 

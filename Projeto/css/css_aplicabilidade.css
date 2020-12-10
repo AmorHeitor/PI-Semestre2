@@ -1,0 +1,17 @@
+li{
+    margin-left: 30px;
+}
+
+.intro{
+    padding-left: 30px;
+}
+
+.desenvolvimento{
+    padding-left: 30px;
+}
+
+.conclusao{
+    padding-left: 30px;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
