@@ -116,7 +116,7 @@ label{
 
 footer{
     min-height: 200px;
-    background-image: url("../img/lgbt.jpg");
+    background-color: rgb(166, 166, 166);
     backdrop-filter: blur();
     background-repeat: no-repeat;
     background-size: auto;
@@ -125,9 +125,28 @@ footer{
 
 .direitos{
     text-align: center;
-    color: white;
 }
 
+.citacao{
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.autor{
+    font-family: serif;
+    font-size: 15px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.denuncia{
+    font-size: 20px;
+    color: rgb(151, 23, 23);
+    text-align: center;
+    padding-top: 20px;
+}
 
 
 
